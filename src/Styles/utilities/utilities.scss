@@ -1,0 +1,67 @@
+
+// Here, I have added multiple external packages such as animations, fonts, icons
+// feel free to use it and add/remove packages of your choice :D
+
+
+// --------------- FONT PACKS -------------------
+
+// Roboto Font (sans-serif)
+// Usage (font-family: 'Roboto', sans-serif)
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+// Poppins Font (sans-serif)
+// Usage (font-family: 'Poppins', sans-serif)
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+// Lora (serif)
+// Usage (font-family: 'Lora', serif)
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+// Noto Serif (serif)
+// Usage (font-family: 'Noto Sans', serif)
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Ubuntu Mono (monospace)
+// Usage (font-family: 'Ubuntu Mono', monospace)
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Anonymous Pro
+// Usage (font-family: 'Anonymous Pro', monospace)
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+// --------------- ICON PACKS -------------------
+
+// Awesome Icons (Icon Pack)
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+
+
+// --------------- ANIMATION PACKS -------------------
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
+
+
+// Normalized classes for fonts
+
+.font-roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.font-lora {
+  font-family: 'Lora', serif;
+}
+
+.font-noto-serif {
+  font-family: 'Noto Serif', serif;
+}
+
+.font-ubuntu-mono {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.font-anms-pro {
+  font-family: 'Anonymous Pro', monospace;
+}

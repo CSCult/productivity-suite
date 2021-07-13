@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+  outline: none;
+}
+
+body {
+  font-weight: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  background-color: inherit;
+}
+
+.center-content {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1400px;
+}
+/*# sourceMappingURL=base.css.map */

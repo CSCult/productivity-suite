@@ -1,0 +1,27 @@
+
+// This is a universal CSS selector method
+// This has some properties for the website
+// Feel free to remove it, if do not required!!
+
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+  outline: none;
+}
+
+body {
+  font-weight: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  background-color: inherit;
+}
+
+// this CSS class is to center the entire content
+.center-content {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1400px;
+}
+
